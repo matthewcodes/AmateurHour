@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mwilson@mwil.so",
+    "longName": "What Time Is It",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_10",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_20",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "WhatTimeIsIt",
+    "uuid": "34201ec2-fae8-4b24-81ab-2dcf5ddc7fdb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
